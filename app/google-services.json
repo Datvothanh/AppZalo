@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893645015421",
+    "project_id": "app-chat-129e0",
+    "storage_bucket": "app-chat-129e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893645015421:android:2b937fdf7d7d4feea12414",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.appzalo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893645015421-h297o8elqanjl9jjn5lvqeh5fh8uqrvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6TrCWAub6RUL7fFY4QvZravTMcjzhlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893645015421-h297o8elqanjl9jjn5lvqeh5fh8uqrvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
