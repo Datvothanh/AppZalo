@@ -1,4 +1,4 @@
-package hcmute.edu.vn.appzalo;
+package hcmute.edu.vn.appzalo.Model;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,7 +10,6 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -22,6 +21,8 @@ import com.google.firebase.auth.PhoneAuthCredential;
 import com.google.firebase.auth.PhoneAuthProvider;
 
 import java.util.concurrent.TimeUnit;
+
+import hcmute.edu.vn.appzalo.R;
 
 public class LoginActivity extends AppCompatActivity {
     private EditText  PhoneNumber;
